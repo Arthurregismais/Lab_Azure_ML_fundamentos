@@ -1,4 +1,3 @@
-# Input
 {
   "input_data": {
     "columns": [
@@ -20,7 +19,6 @@
   }
  }
 
-# Json Output
 [
   334.7253689793677
 ]
